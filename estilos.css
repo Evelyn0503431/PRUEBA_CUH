@@ -1,0 +1,39 @@
+#divUno{
+    background-color: #311d1a;
+}
+#divDos{
+    background-color: #96c6fd;
+}
+#divTres{
+    background-color: hwb(#000000);
+}
+.col {
+    color: hwb(0 0% 100%);
+    border: 6px groove #b0f2c2;
+    background-color: #ededaf;
+
+}
+.col-8 {
+
+    color: hwb(300 5% 95%);
+    border: 2px dotted #f9d99a;
+    background-color: #95b8f6;
+
+}
+.col-4 {
+    color: #000000;
+    border: 6px outset #9b9b9b ;
+    background-color: #95b8f6;
+}
+#spanUno{
+    color: #f8e5d8;
+}
+#spanDos{
+    color: #ebf2b0;
+}
+#spanTres{
+    color: #ff0496;
+}
+#spanCuatro{
+    color: #df8f0e;
+}
